@@ -33,10 +33,7 @@ const exerciseSchema = new Schema(
                     type: Number
                 }
             }
-        ],
-        totalDuration: {
-            type: Number
-        }
+        ]
     }
 )
 
