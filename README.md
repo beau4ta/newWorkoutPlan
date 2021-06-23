@@ -36,4 +36,8 @@
   GitHub: [beau4ta](https://github.com/beau4ta)
   
   Email me with any questions: beaufortier13@gmail.com
+
+  Link to deployed application: https://whispering-journey-64912.herokuapp.com/?id=60d29e977d5093024bf9e8db
   
+  <img src="assets/fitnessSS1.png">
+  <img src="assets/fitnessSS2.png">
